@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/1434624c-08e0-4436-bb40-03d26666a509/resourceGroups/bloggApp/providers/Microsoft.Web/sites/vue-blogg-api",
+  "appService.deploySubpath": "."
+}
